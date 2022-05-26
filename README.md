@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Rafe Daniels
+- 👀 I’m interested in Library Development, AI, Web development
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on Popular Libraries
+- 💻 Currently working on [TradesTower](https://discord.gg/tradestower)
+- 📫 rafe.daniels.official@gmail.com
